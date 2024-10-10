@@ -1,6 +1,6 @@
 # UK-annualreport-textdata-categories
 
-The data files folder contains 23 UK Firms' Annual Report Text classified in following categories: Financial, Human, Natural, Social & Relationship, Manufactured, Intellectual and Unclassified. These categories are based on Integrated Reporting Framework's six capitals, broadly defined as follows:
+The `data files` folder contains 23 UK Firms' Annual Report Text classified in following categories: Financial, Human, Natural, Social & Relationship, Manufactured, Intellectual and Unclassified. These categories are based on Integrated Reporting Framework's six capitals, broadly defined as follows:
 
 - **Financial**: *Information about the company’s financial performance,
   including revenue, expenses, profits, and financial health.*
