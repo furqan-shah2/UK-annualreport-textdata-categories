@@ -17,4 +17,4 @@ The `data files` folder contains 23 UK Firms' Annual Report Text classified in f
 - **Unclassified**: *Includes disclosures that do not fit into the other
   categories.*
 
-I used this data to train and implement a text classification model in my PhD Thesis. 
+I used this data to train and implement a text classification model as part of my PhD thesis. I also incorporated this data in coding tutorials available (and upcoming projects) on my GitHub repositories for demonstration purposes.
